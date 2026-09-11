@@ -1,16 +1,20 @@
-## Hi there 👋
+# Evaristus Nwachukwu
 
-<!--
-**evaristusnc-hub/evaristusnc-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Governance, Risk & Compliance | IT Risk | Security Assurance
 
-Here are some ideas to get you started:
+Welcome to my Governance, Risk, and Compliance (GRC) portfolio. This portfolio showcases practical projects in IT risk, security assurance, audit, compliance, and governance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured GRC Projects
+
+### [Enterprise Risk Management Portfolio](https://github.com/evaristusnc-hub/enterprise-risk-management-portfolio)
+A practical enterprise risk management project demonstrating risk identification, assessment, scoring, governance, risk reporting, dashboards, and risk treatment.
+
+## Tools & Platforms
+
+ServiceNow GRC | AuditBoard | Vanta | Drata | Jira | Okta
+
+## Connect With Me
+
+- GRC Portfolio Website: https://grc.evaristus.com
+- LinkedIn: https://www.linkedin.com/in/evaristus-n-a65149389/
+- Email Me:evaristusnc@gmail.com
